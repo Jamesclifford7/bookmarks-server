@@ -21,3 +21,203 @@
 {"message":"Bookmark with id: e202290d-0de4-4823-b3be-f1ad1b643e88 created","level":"info"}
 {"message":"Bookmark with id: e202290d-0de4-4823-b3be-f1ad1b643e88 deleted","level":"info"}
 {"message":"Bookmark with id: ae94a9cd-87cd-4c3f-a87b-f5ef5209a3b1 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /articles","level":"error"}
+{"message":"Unauthorized request to path: /articles","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: bdb9d59b-b385-475e-ad0b-17f373a33a31 created","level":"info"}
+{"message":"Bookmark with id: a29f7197-2176-4c65-b68d-1d981e65a0d1 created","level":"info"}
+{"message":"Bookmark with id: a1104aae-180a-4540-b688-4b803db4a337 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/12","level":"error"}
+{"message":"Bookmark with id: b9ee2627-31fe-475b-9962-a0419a18c9f6 created","level":"info"}
+{"message":"Bookmark with id: 8c38dc98-606f-4122-ae64-e75edcb32aaa created","level":"info"}
+{"message":"Bookmark with id: ed5cffdf-b4ae-47a2-b35f-7bb2f119279f created","level":"info"}
+{"message":"Bookmark with id: c7f7656f-1192-40f5-af16-b9bffa55661b created","level":"info"}
+{"message":"Bookmark with id: 507e2f33-bc5a-438e-a4be-c2f11edc6b89 created","level":"info"}
+{"message":"Bookmark with id: 31c419b0-1402-4db0-a729-8c903904ce40 created","level":"info"}
+{"message":"Bookmark with id: 3cc77d18-81e0-4594-b83d-1a8188b0b83d created","level":"info"}
+{"message":"Bookmark with id: 485e3937-6e59-4c92-928c-ca5b4dcf2813 created","level":"info"}
+{"message":"Bookmark with id: 3a9eec2f-ce96-4e4f-bfcf-d55342dc9a7d created","level":"info"}
+{"message":"Bookmark with id: 7715d125-e156-4894-9de7-1f2deba1ed8f created","level":"info"}
+{"message":"Bookmark with id: b04f73ef-be0a-43a4-8f1c-381f59841f26 created","level":"info"}
+{"message":"Bookmark with id: bb97eb51-477a-4fe1-8dcc-5ab6c5b7b2d7 created","level":"info"}
+{"message":"Bookmark with id: 07e95ced-12bb-49e4-ba1e-88f37718a0b1 created","level":"info"}
+{"message":"Bookmark with id: 44d0fa74-9608-404f-bbd7-225268c47f68 created","level":"info"}
+{"message":"Bookmark with id: 6f6435ca-7b27-473d-b6af-8a5e6a824682 created","level":"info"}
+{"message":"Bookmark with id: 5a5c5b7d-0bd8-4c09-bf9e-47264935a4b7 created","level":"info"}
+{"message":"Bookmark with id: 51797dae-99a2-491e-9b79-fc8269293fb3 created","level":"info"}
+{"message":"Bookmark with id: d65f0d9f-a4c7-4326-9d9f-b1740ee6c9db created","level":"info"}
+{"message":"Bookmark with id: 97995e74-ce27-42f9-9779-2e2b047e6c92 created","level":"info"}
+{"message":"Bookmark with id: 20cdfa3d-b5a0-4134-a1ac-8f9d97acc836 created","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id: d29b49e8-c0c2-4f14-bc87-b2b265e4818d created","level":"info"}
+{"message":"Bookmark with id: 4f0631ef-4b9a-4c8b-9a17-3d91717efd0b created","level":"info"}
+{"message":"Bookmark with id: 77cc627b-eae9-4eb3-a572-9cceef0ab442 created","level":"info"}
+{"message":"Bookmark with id: ba62e11a-ccf7-4f80-9d4f-8439c6fe50fa created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: b8fdea47-a80f-47f0-a266-76b2142b7a5c created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: bb78d658-3bd5-48e2-a5cb-2a18c133a571 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id: 33d8a019-1e2a-42dc-b70c-829916f5272d created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id: e2d945db-2d1e-4a0a-88c0-dd01682701dd created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: be8af9b9-1970-4d18-abdd-6a88797078c7 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: dec277b1-1eb3-48b2-82bf-7f1f76d697b9 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: b3ddd1e6-d49b-425f-84de-a966a8edd90e created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id: 2d7ceefc-3837-401c-86eb-5efa875257f1 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: undefined not found","level":"error"}
+{"message":"Bookmark with id: 20b1859e-5e03-49e0-b2e8-af1871656ec9 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 41f12e91-1eaa-4700-8790-814c9ab292c3 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: undefined not found","level":"error"}
+{"message":"Bookmark with id: 891ce63a-7b74-4d7d-8730-b15416fab775 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: ba1487fe-f9b5-41e3-a64a-94f365641ac3 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: undefined not found","level":"error"}
+{"message":"Bookmark with id: b32ddc86-805a-4e10-89cd-1b199b99fbb0 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 8c4beada-6781-43a6-834f-332aa2eacb38 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: b22b79d6-0f57-4cf3-adf1-4539085f9d15 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 092cdc09-bfb3-4c43-8cd9-c5c8ae775a60 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: e926ddff-7705-4257-8651-6d823e17f07f created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: undefined not found","level":"error"}
+{"message":"Bookmark with id: 6ef33585-a198-4fbb-93a8-060ccc920742 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: undefined not found","level":"error"}
+{"message":"Bookmark with id: 61dabcef-670c-4677-9675-e653538f1621 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 0aac348a-c2da-4e6d-9917-9d4fcacfdaaa created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 3d032d4b-62c8-46c7-85df-b2b2ae2fba9d created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: a98ad84e-23d0-4d30-b357-56015163f001 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: b81485f8-7580-44e1-ac5a-073f391e747f created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id: b8e114e0-3d0a-457b-8f84-f5823cb6325f created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: bdfd7ff6-ee7d-4da4-a66e-6f35e4159c47 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 552eb131-5a2c-4838-b30b-b75e1e0b4d2c created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: b68951d2-c346-40eb-be22-44f0fafce183 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: b318f906-3b38-4c75-97b4-f8088528a67b created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id: f2783aa5-9284-423b-bfb5-45bcce9d3e92 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: f7989c2b-c84b-47ea-a66c-13c3477f3088 created","level":"info"}
+{"message":"Bookmark with id: 32d6e595-9731-4921-af72-3c393bea0d14 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 7028f208-c4c6-482a-a93c-735cb4228da8 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Bookmark with id: 3e7c0ccc-6c41-4b46-baaa-91ef996770e5 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 49c0b9d5-b824-4113-a66b-eb6451db64c4 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: af50d641-8283-4e36-b4be-d90da0ad08e4 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 44b1a1d9-14ea-4ea7-b6ee-af336ee6aec5 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 0cd4282e-7b94-472e-b654-e7237bc71514 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: af1e2c83-f7e3-49e8-84a3-9b7e15fcf99b created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 3dd5463a-cf30-4f0b-bea8-42f68922e077 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: bc6ad3bc-a83e-4e58-9952-1170f71a8426 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Bookmark with id: 97ead322-3734-4036-b5a3-d3f5d762d079 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/2","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Url is required","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
